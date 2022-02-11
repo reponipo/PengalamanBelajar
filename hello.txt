@@ -6,3 +6,4 @@ Nullam tempus euismod mi eget tristique. Ut vel felis sit amet magna scelerisque
 
 commit1 coba squash
 commit2 coba squash
+commit3 coba squash
