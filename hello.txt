@@ -5,3 +5,4 @@ Nullam tempus euismod mi eget tristique. Ut vel felis sit amet magna scelerisque
 12345678910
 
 commit1 coba squash
+commit2 coba squash
